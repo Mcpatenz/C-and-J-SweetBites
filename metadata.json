@@ -1,0 +1,6 @@
+{
+  "name": "Dulce & Kusina — Bakery, Custom Cakes & Party Packages",
+  "description": "Complete customer ordering storefront, interactive 10-step custom cake builder, party food pack configurator, and unified owner management console with GCash/Maya checkout and live order tracking.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
